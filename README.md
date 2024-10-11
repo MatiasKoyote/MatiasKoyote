@@ -32,9 +32,9 @@
 </div><br>
 <h3> Professional Experience </h3>
 
-Kpaz - Scotiabank | RPA UiPath Developer | November 2023 - Present
-Axity - Sura | RPA UiPath Developer | August 2023 - November 2023
-DHL Supply Chain | RPA UiPath Developer | 2019 - March 2023
+- Kpaz - Scotiabank | RPA UiPath Developer | November 2023 - Present
+- Axity - Sura | RPA UiPath Developer | August 2023 - November 2023
+- DHL Supply Chain | RPA UiPath Developer | 2019 - March 2023
 
 <h3> Education </h3>
 🎓 Computer Engineering | Universidad Andrés Bello | 2021 - 2024
