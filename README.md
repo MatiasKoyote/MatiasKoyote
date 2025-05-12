@@ -31,8 +31,8 @@
   <img align="center" alt="Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
 </div><br>
 <h3> Professional Experience </h3>
-
-- Kpaz - Scotiabank | RPA UiPath Developer | November 2023 - Present
+- Scotiabank | Automation Controller | May 2025 - Present
+- Kpaz - Scotiabank | RPA UiPath Developer | November 2023 - May 2025
 - Axity - Sura | RPA UiPath Developer | August 2023 - November 2023
 - DHL Supply Chain | RPA UiPath Developer | 2019 - March 2023
 
