@@ -12,7 +12,7 @@
   <p align="left"><i><b>
   🤖 RPA Developer with 4+ years of experience<br>
   🎓 Computer Engineering student @ Universidad Andrés Bello<br>
-  💼 Currently working at Kpaz - Scotiabank<br>
+  💼 Currently working at Scotiabank<br>
   🔧 Specialized in UiPath<br>
   🌟 Focused on continuous improvement
   </i></b></p>
@@ -31,6 +31,7 @@
   <img align="center" alt="Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
 </div><br>
 <h3> Professional Experience </h3>
+    
 - Scotiabank | Automation Controller | May 2025 - Present
 - Kpaz - Scotiabank | RPA UiPath Developer | November 2023 - May 2025
 - Axity - Sura | RPA UiPath Developer | August 2023 - November 2023
